@@ -1,8 +1,8 @@
 [
     {
         "coordinates": {
-            "lng": 1300,
-            "lat": 980
+            "lng": 1940,
+            "lat": 1980
         },
         "picture": "https://i.ytimg.com/vi/6mwG_GCQzc4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDZw-2oihK9Rv9fe24s21ROUyMt4g",
         "video": "https://www.youtube.com/watch?v=6mwG_GCQzc4&t=221s",
@@ -12,8 +12,8 @@
     },
     {
         "coordinates": {
-            "lng": 1302,
-            "lat": 982
+            "lng": 1942,
+            "lat": 1982
         },
         "skater": "Brian Wenning",
         "trick": "Switch Tre (R/G S)",
@@ -23,8 +23,8 @@
     },
     {
         "coordinates": {
-            "lng": 1300,
-            "lat": 984
+            "lng": 1940,
+            "lat": 1984
         },
         "skater": "Cairo Foster",
         "trick": "Fs Noseblunt (R/G )",
@@ -34,8 +34,8 @@
     },
     {
         "coordinates": {
-            "lng": 1298,
-            "lat": 982
+            "lng": 1938,
+            "lat": 1982
         },
         "skater": "Chad Muska",
         "trick": "\"Muska\" Flip (Fs Flip) (R/G )",
@@ -43,13 +43,87 @@
         "video": "https://www.youtube.com/watch?v=6mwG_GCQzc4&t=221s",
         "description": "Muska had three clips at the banks in Shorty's Guilty Video. This \"Muska\" Flip over the 9 Stair Rail was 1 out of those 3 clips"
     },
-
-
-
     {
         "coordinates": {
-            "lng": 1282,
-            "lat": 950
+            "lng": 1938,
+            "lat": 1984
+        },
+        "skater": "Chad Muska",
+        "trick": "Fs 5-0 (R/G )",
+        "picture": "https://i.ytimg.com/vi/6mwG_GCQzc4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDZw-2oihK9Rv9fe24s21ROUyMt4g",
+        "video": "https://www.youtube.com/watch?v=6mwG_GCQzc4&t=221s",
+        "description": "Chad Muska 5-0 small banks rail in 1995. This trick was the cover of thrasher October 1995."
+    },
+    {
+        "coordinates": {
+            "lng": 1936,
+            "lat": 1982
+        },
+        "skater": "Chris Cole",
+        "trick": "Nollie Bs Crook (R/G N)",
+        "picture": "https://i.ytimg.com/vi/6mwG_GCQzc4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDZw-2oihK9Rv9fe24s21ROUyMt4g",
+        "video": "https://www.youtube.com/watch?v=6mwG_GCQzc4&t=221s",
+        "description": "In some raw footage Chris Cole Nollie Crook the 9 Stair Rail"
+    },
+    {
+        "coordinates": {
+            "lng": 1936,
+            "lat": 1982
+        },
+        "skater": "Danny Way",
+        "trick": "Bs Noseslide (R/G )",
+        "picture": "https://i.ytimg.com/vi/6mwG_GCQzc4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDZw-2oihK9Rv9fe24s21ROUyMt4g",
+        "video": "https://www.youtube.com/watch?v=6mwG_GCQzc4&t=221s",
+        "description": "April 18th 1993, at The Brooklyn Banks Gathering Danny Way did a Backside Noseslide on the 9 stair rail and won $100 for this NBD in 1993!"
+    },
+    {
+        "coordinates": {
+            "lng": 1936,
+            "lat": 1982
+        },
+        "skater": "Frank Gerwer",
+        "trick": "Kickflip (R/G )",
+        "picture": "https://i.ytimg.com/vi/6mwG_GCQzc4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDZw-2oihK9Rv9fe24s21ROUyMt4g",
+        "video": "https://www.youtube.com/watch?v=6mwG_GCQzc4&t=221s",
+        "description": "Frank Gerwer was the first person to Kickflip the 9 stair set in The Brooklyn Banks. It was aired in 1995 in the Number Nine video \"Another Number\""
+    },
+    {
+        "coordinates": {
+            "lng": 1936,
+            "lat": 1982
+        },
+        "skater": "Jake Johnson",
+        "trick": "Fakie Heelflip (R/G F)",
+        "picture": "https://i.ytimg.com/vi/6mwG_GCQzc4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDZw-2oihK9Rv9fe24s21ROUyMt4g",
+        "video": "https://www.youtube.com/watch?v=6mwG_GCQzc4&t=221s",
+        "description": "Jake Johnson's Fakie Heelflip was an Alien Workshop Ad for their video \"Mindfield\""
+    },
+    {
+        "coordinates": {
+            "lng": 1936,
+            "lat": 1982
+        },
+        "skater": "Mark Gonzales",
+        "trick": "Bs Boardslide (R/G )",
+        "picture": "https://i.ytimg.com/vi/6mwG_GCQzc4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDZw-2oihK9Rv9fe24s21ROUyMt4g",
+        "video": "https://www.youtube.com/watch?v=6mwG_GCQzc4&t=221s",
+        "description": "The trick/photo was taken in 1987 and released in the video #Gonzo goes to NYC# in 1989 for the Vision Street Wear video Mondo Vision"
+    },
+    {
+        "coordinates": {
+            "lng": 1936,
+            "lat": 1982
+        },
+        "skater": "Jamie Thomas",
+        "trick": "Bs Lipslide (9 Stair Rail) Kickflip (Gap to Street) Ollie (Up Sidewalk) Heelflip (Flat) Ollie (4 Stair Set) Treflip (Basketball Court) Bs 50-50 (13 Stair Rail) (R/G )",
+        "picture": "https://i.ytimg.com/vi/6mwG_GCQzc4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDZw-2oihK9Rv9fe24s21ROUyMt4g",
+        "video": "https://www.youtube.com/watch?v=6mwG_GCQzc4&t=221s",
+        "description": "1996 Toy Machine dropped Welcome To Hell and the world saw Jamie Thomas's insane Brooklyn Banks Line"
+    },
+    {
+        "coordinates": {
+            "lng": 1912,
+            "lat": 1900
         },
         "skater": "Creā-ture",
         "trick": "Nollie Bs 360 Kickflip (R/G N)",
@@ -57,27 +131,230 @@
         "video": "https://www.youtube.com/watch?v=6mwG_GCQzc4&t=221s",
         "description": "This was our tease for you guys in 2019 for Go Skate Day"
     },
-
-
-
     {
         "coordinates": {
-            "lng": 1342,
-            "lat": 1014
+            "lng": 2012,
+            "lat": 2058
         },
         "skater": "Justin Pierce",
-        "trick": "N5-0 (G )",
+        "trick": "5-0 (G )",
         "picture": "https://i.ytimg.com/vi/6mwG_GCQzc4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDZw-2oihK9Rv9fe24s21ROUyMt4g",
         "video": "https://www.youtube.com/watch?v=6mwG_GCQzc4&t=221s",
         "description": "Justin Pierce 5-0 the small banks ledge in 1995"
     },
-
-
-
     {
         "coordinates": {
-            "lng": 1532,
-            "lat": 880
+            "lng": 2072,
+            "lat": 2050
+        },
+        "skater": "Brian Wenning",
+        "trick": "Switch Heel (R/G S)",
+        "picture": "https://i.ytimg.com/vi/6mwG_GCQzc4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDZw-2oihK9Rv9fe24s21ROUyMt4g",
+        "video": "https://www.youtube.com/watch?v=6mwG_GCQzc4&t=192s",
+        "description": "Brian Wenning Switch Heel Over the wall"
+    },
+    {
+        "coordinates": {
+            "lng": 2072,
+            "lat": 2050
+        },
+        "skater": "Christian Hosoi",
+        "trick": "Ollie (R/G )",
+        "picture": "https://i.ytimg.com/vi/6mwG_GCQzc4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDZw-2oihK9Rv9fe24s21ROUyMt4g",
+        "video": "https://www.youtube.com/watch?v=6mwG_GCQzc4&t=192s",
+        "description": "Christian Hosoi became the first Skater ever to Ollie over the small wall at the Brooklyn Banks in 1989."
+    },
+    {
+        "coordinates": {
+            "lng": 2072,
+            "lat": 2050
+        },
+        "skater": "Eric Koston",
+        "trick": "Bs Flip (R/G )",
+        "picture": "https://i.ytimg.com/vi/6mwG_GCQzc4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDZw-2oihK9Rv9fe24s21ROUyMt4g",
+        "video": "https://www.youtube.com/watch?v=6mwG_GCQzc4&t=192s",
+        "description": "At the Brookyln Banks Gathering Eric Koston popped a sweet backside 180 kickflip over the wall. 411VM legit spelt his name \"Eric Kosten\" WTF!"
+    },
+    {
+        "coordinates": {
+            "lng": 2072,
+            "lat": 2050
+        },
+        "skater": "Eric Koston",
+        "trick": "Heelflip (R/G )",
+        "picture": "https://i.ytimg.com/vi/6mwG_GCQzc4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDZw-2oihK9Rv9fe24s21ROUyMt4g",
+        "video": "https://www.youtube.com/watch?v=6mwG_GCQzc4&t=192s",
+        "description": "Heelflip over the small just like Eric Koston. April 18, 1993 Brooklyn Banks Gathering. Eric Koston heelfliped over the wall"
+    },
+    {
+        "coordinates": {
+            "lng": 2072,
+            "lat": 2050
+        },
+        "skater": "Eric Koston",
+        "trick": "Nollie Bs Heelflip (R/G N)",
+        "picture": "https://i.ytimg.com/vi/6mwG_GCQzc4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDZw-2oihK9Rv9fe24s21ROUyMt4g",
+        "video": "https://www.youtube.com/watch?v=6mwG_GCQzc4&t=192s",
+        "description": "Eric Koston Nollie BS Heelflip Over The Small Banks Wall."
+    },
+    {
+        "coordinates": {
+            "lng": 2072,
+            "lat": 2050
+        },
+        "skater": "Harold Hunter",
+        "trick": "Bs Heelflip (R/G )",
+        "picture": "https://i.ytimg.com/vi/6mwG_GCQzc4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDZw-2oihK9Rv9fe24s21ROUyMt4g",
+        "video": "https://www.youtube.com/watch?v=6mwG_GCQzc4&t=192s",
+        "description": "Harold Hunter did a BS heelflip over the small wall at the Brooklyn Banks Gathering 1993, and won best trick over the wall."
+    },
+    {
+        "coordinates": {
+            "lng": 2072,
+            "lat": 2050
+        },
+        "skater": "Mike Carroll",
+        "trick": "Kickflip (R/G )",
+        "picture": "https://i.ytimg.com/vi/6mwG_GCQzc4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDZw-2oihK9Rv9fe24s21ROUyMt4g",
+        "video": "https://www.youtube.com/watch?v=6mwG_GCQzc4&t=192s",
+        "description": "Mike Carroll Kickflipped over the wall in 1995. The footage was lost until 2014."
+    },
+    {
+        "coordinates": {
+            "lng": 2072,
+            "lat": 2050
+        },
+        "skater": "Rob Welsh",
+        "trick": "Switch Tre (R/G S)",
+        "picture": "https://i.ytimg.com/vi/6mwG_GCQzc4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDZw-2oihK9Rv9fe24s21ROUyMt4g",
+        "video": "https://www.youtube.com/watch?v=6mwG_GCQzc4&t=192s",
+        "description": "Rob Welsh's Switch 360 flip sequence over the Brooklyn Banks wall. The Photo was shot by Giovanni Reda and filmed by Keith Hufnagel. It was Featured in TWS Sept. 1998, Vol. 16, No."
+    },
+    {
+        "coordinates": {
+            "lng": 2072,
+            "lat": 2050
+        },
+        "skater": "Ryan Hickey",
+        "trick": "Fs Flip (R/G )",
+        "picture": "https://i.ytimg.com/vi/6mwG_GCQzc4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDZw-2oihK9Rv9fe24s21ROUyMt4g",
+        "video": "https://www.youtube.com/watch?v=6mwG_GCQzc4&t=192s",
+        "description": "Ryan Hickey Frontside flipped over the Banks wall for a Zoo York Ad in 1994. The photo was taken by Dimitry Elyashikevich. Mike Carroll Also did a Frontside Kickflip over the wall in 1995, filmed by Joe Krolick"
+    },
+    {
+        "coordinates": {
+            "lng": 2072,
+            "lat": 2050
+        },
+        "skater": "Tony Cox",
+        "trick": "Nollie Hardflip (R/G N)",
+        "picture": "https://i.ytimg.com/vi/6mwG_GCQzc4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDZw-2oihK9Rv9fe24s21ROUyMt4g",
+        "video": "https://www.youtube.com/watch?v=6mwG_GCQzc4&t=192s",
+        "description": "Tony Cox Nollie Hardfliped the Brooklyn Banks wall for a Silverstar Skateboards Ad in 1997. Silverstar Skateboards was started by Ricky Oyola himself."
+    },
+    {
+        "coordinates": {
+            "lng": 822,
+            "lat": 2050
+        },
+        "skater": "Creā-ture",
+        "trick": "Kickflip Bs Tail Bigflip Out (R )",
+        "picture": "https://steamuserimages-a.akamaihd.net/ugc/1756936666322399920/E0471F5674B34B5226D6EBDC627CB1B32FB3F552/",
+        "video": "https://www.youtube.com/watch?v=6mwG_GCQzc4&t=88s",
+        "description": "This Kickflip Bs Tail Bigflip out was the first trick showcased in the E3 trailer in 2018"
+    },
+    {
+        "coordinates": {
+            "lng": 1022,
+            "lat": 1990
+        },
+        "skater": "Chad Muska",
+        "trick": "Fs Flip (R/G )",
+        "picture": "https://steamuserimages-a.akamaihd.net/ugc/1756936666322427832/9D638EF34036639B53B62AEB278812CCC252E737/",
+        "video": "https://www.youtube.com/watch?v=6mwG_GCQzc4&t=151s",
+        "description": "Muska had three clips at the banks in Shorty's Guilty Video. This Frontside Flip was 1 out of those 3 clips"
+    },
+    {
+        "coordinates": {
+            "lng": 1022,
+            "lat": 1990
+        },
+        "skater": "Kyle James",
+        "trick": "Nollie Heelflip (R/G N)",
+        "picture": "https://steamuserimages-a.akamaihd.net/ugc/1756936666322427832/9D638EF34036639B53B62AEB278812CCC252E737/",
+        "video": "https://www.youtube.com/watch?v=6mwG_GCQzc4&t=151s",
+        "description": "Kyle James slammed this Nollie Heel on the Big Banks Bank back in 1997!"
+    },
+    {
+        "coordinates": {
+            "lng": 1022,
+            "lat": 1990
+        },
+        "skater": "Sage Elsesser",
+        "trick": "Heelflip to Fakie (R/G )",
+        "picture": "https://steamuserimages-a.akamaihd.net/ugc/1756936666322427832/9D638EF34036639B53B62AEB278812CCC252E737/",
+        "video": "https://www.youtube.com/watch?v=6mwG_GCQzc4&t=151s",
+        "description": "Sage Elsesser Heelflip fakie on the Big Banks Bank"
+    },
+    {
+        "coordinates": {
+            "lng": 742,
+            "lat": 2017
+        },
+        "skater": "Brandon Westgate",
+        "trick": "Tre (R/G )",
+        "picture": "https://steamuserimages-a.akamaihd.net/ugc/1756936666322442913/4556BF829BB722D912462CD4D57F9368290513DD/",
+        "video": "https://www.youtube.com/watch?v=6mwG_GCQzc4&t=107s",
+        "description": "The first Back to the Banks contest (2006), Brandon Westgate nailed a 360 flip over the makeshift bumb to gap"
+    },
+    {
+        "coordinates": {
+            "lng": 742,
+            "lat": 2017
+        },
+        "skater": "Collin Hale",
+        "trick": "Nollie Bs Heelflip (R/G N)",
+        "picture": "https://steamuserimages-a.akamaihd.net/ugc/1756936666322442913/4556BF829BB722D912462CD4D57F9368290513DD/",
+        "video": "https://www.youtube.com/watch?v=6mwG_GCQzc4&t=107s",
+        "description": "Collin Hale Nollie Backside Heelflip on the bumb to gap at 2006 Back to the Banks"
+    },
+    {
+        "coordinates": {
+            "lng": 1092,
+            "lat": 1977
+        },
+        "skater": "Aaron Suski",
+        "trick": "Fs 5-0 (R/G )",
+        "picture": "https://steamuserimages-a.akamaihd.net/ugc/1756936666322460142/D8390E886E39F6BE8A8B31EC1A7B57B6B0031778/",
+        "video": "https://www.youtube.com/watch?v=6mwG_GCQzc4&t=114s",
+        "description": "Aaron Suski Fs 5-0 the high ledge at Back to the Banks 2008"
+    },
+    {
+        "coordinates": {
+            "lng": 1192,
+            "lat": 1977
+        },
+        "skater": "Stevie Williams",
+        "trick": "Switch Tre (R/G S)",
+        "picture": "https://steamuserimages-a.akamaihd.net/ugc/1756936666322476801/13F9001A5912116B977B7BC6112712C82CF014E5/",
+        "video": "https://www.youtube.com/watch?v=6mwG_GCQzc4&t=151s",
+        "description": "Stevie Williams, Switch Tre the Big Banks bank in Big Brother"
+    },
+    {
+        "coordinates": {
+            "lng": 1292,
+            "lat": 1977
+        },
+        "skater": "Creā-ture",
+        "trick": "Bs Smith (R/G )",
+        "picture": "https://steamuserimages-a.akamaihd.net/ugc/1756936666322493501/B894EB862CB25A5027FD3C09CD111D96EE219608/",
+        "video": "https://www.youtube.com/watch?v=6mwG_GCQzc4&t=158s",
+        "description": "This Backside Smith grind down the 13 stair rail was the first time y'all saw the famous 13 stair rail"
+    },
+    {
+        "coordinates": {
+            "lng": 2422,
+            "lat": 1780
         },
         "skater": "Creā-ture",
         "trick": "Fs Flip (R/G )",
@@ -85,5 +362,4 @@
         "video": "https://www.youtube.com/watch?v=6mwG_GCQzc4&t=292s",
         "description": "The massive and legendary Fs Flip E3 trailer ender!!!! Get hyped you landed that S**T!!!!"
     }
-
 ]
