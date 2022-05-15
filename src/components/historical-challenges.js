@@ -1,5 +1,7 @@
+import ENV from '../../env.js';
+
 export default async function loadHistoricalChallengeMarkers(map, mapName) {
-    const data = await fetch(`/data/historical-challenges-${mapName}.json`)
+    const data = await fetch(`${ENV.SITE_URL}/data/historical-challenges-${mapName}.json`)
     const markers = L.markerClusterGroup();
     const historicalChallenges = await data.json();
     historicalChallenges.map((markerData) => {

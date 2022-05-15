@@ -1,3 +1,5 @@
+import ENV from '../../env.js';
+
 const route = (event) => {
     event = event || window.event;
     event.preventDefault();
@@ -19,22 +21,23 @@ const routes = {
 let currentPath = null;
 
 const handleLocation = async () => {
-    const path = window.location.pathname;
+    let path = window.location.pathname;
+    path = path.split('/scm').pop();
+
     if (path === currentPath) {
         return;
     }
     currentPath = path;
 
     const route = routes[path] || routes[404];
-    const html = await fetch(route.template).then((data) => data.text());
+    console.log([ENV.SITE_URL, route.template]);
+    const html = await fetch(ENV.SITE_URL + route.template).then((data) => data.text());
     document.getElementById('app').innerHTML = html;
-
     if (null === route.controller) {
         return;
     }
 
     const module = `../controllers/${route.controller}`;
-
     const controller = await import(module);
     controller.render();
 }
