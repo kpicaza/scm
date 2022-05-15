@@ -8,7 +8,7 @@ A community created Fan map with locations of the especial features, spots and s
 
 - [x] Picture from NYC Booklin, Chatham map(1920*1080)  
 - [x] Test adding some markers
-    - [ ] Historical challenge marker type
+    - [x] Historical challenge marker type
     - [ ] Daily Challenge marker type   
 - [ ] Check if there are Copyright issues? (I'm new in the geming world XD)
 
