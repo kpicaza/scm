@@ -22,7 +22,7 @@ let currentPath = null;
 
 const handleLocation = async () => {
     let path = window.location.pathname;
-    path = path.split('/scm').pop();
+    path = path.split(ENV.SUB_FOLDER).pop();
 
     if (path === currentPath) {
         return;
@@ -30,7 +30,6 @@ const handleLocation = async () => {
     currentPath = path;
 
     const route = routes[path] || routes[404];
-    console.log([ENV.SITE_URL, route.template]);
     const html = await fetch(ENV.SITE_URL + route.template).then((data) => data.text());
     document.getElementById('app').innerHTML = html;
     if (null === route.controller) {

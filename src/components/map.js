@@ -4,10 +4,10 @@ app.addEventListener('loadMap', async (event) => {
     const map = L.map('map', {
         crs: L.CRS.Simple,
         minZoom: -1,
-        maxZoom: 5,
+        maxZoom: 3,
     });
-    const bounds = [[0, 0], [1080, 1920]];
-    const image = L.imageOverlay(event.detail.map, bounds).addTo(map);
+    const bounds = [[0, 0], [2160, 3840]];
+    L.imageOverlay(event.detail.map, bounds).addTo(map);
 
     await event.detail.loader(map)
     

@@ -21,6 +21,8 @@ A community created Fan map with locations of the especial features, spots and s
 - [ ] Historical challenge marker content
 - [ ] Daily Challenge marker type   
 - [ ] Daily Challenge marker content   
+- [ ] Mission marker type   
+- [ ] Mission marker content   
 - [ ] Define initial Look & Feel
 
 ## Contributing
