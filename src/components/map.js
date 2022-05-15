@@ -3,7 +3,7 @@ const app = document.getElementById('app');
 app.addEventListener('loadMap', async (event) => {
     const map = L.map('map', {
         crs: L.CRS.Simple,
-        minZoom: 1,
+        minZoom: -1,
         maxZoom: 5,
     });
     const bounds = [[0, 0], [1080, 1920]];

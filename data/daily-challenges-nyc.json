@@ -1,0 +1,22 @@
+[
+    {
+        "coordinates": {
+            "lng": 792,
+            "lat": 504
+        },
+        "picture": "https://i.ytimg.com/vi/ChR2Lo1KqE0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCBalVEAqxj4bAi9qzZWW7L8cbWDA",
+        "video": "https://youtu.be/ChR2Lo1KqE0",
+        "name": "James Park Planters",
+        "description": "Grind 9 of James Park planters."
+    },
+    {
+        "coordinates": {
+            "lng": 1307,
+            "lat": 589
+        },
+        "picture": "https://i.ytimg.com/vi/1iY_6V9Sb2c/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAZeAjGbCl-8kepuOwmUA-2OeWJJg",
+        "video": "https://youtu.be/1iY_6V9Sb2c",
+        "name": "Police Plaza Stair Session",
+        "description": "Do a trick over any Police plaza stair gaps 20 times."
+    }
+]
