@@ -1,0 +1,14 @@
+#page {
+    width: 100%;
+    display: flex;
+}
+#app {
+    width: 100%;
+}
+#navbar{
+    flex: 20%;
+}
+#map {
+    flex: 80%;
+    height: 900px;
+}

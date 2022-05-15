@@ -1,0 +1,89 @@
+[
+    {
+        "coordinates": {
+            "lng": 1300,
+            "lat": 980
+        },
+        "picture": "https://i.ytimg.com/vi/6mwG_GCQzc4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDZw-2oihK9Rv9fe24s21ROUyMt4g",
+        "video": "https://www.youtube.com/watch?v=6mwG_GCQzc4&t=221s",
+        "skater": "Brian Wenning",
+        "trick": "Nollie FS 180 (R/G N)",
+        "description": "Brian Wenning, Nollie Fs 180, down the Brooklyn Banks 9 Stair set in the Habitat section of Alien Workshop's Photosynthesis video!"
+    },
+    {
+        "coordinates": {
+            "lng": 1302,
+            "lat": 982
+        },
+        "skater": "Brian Wenning",
+        "trick": "Switch Tre (R/G S)",
+        "picture": "https://i.ytimg.com/vi/6mwG_GCQzc4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDZw-2oihK9Rv9fe24s21ROUyMt4g",
+        "video": "https://www.youtube.com/watch?v=6mwG_GCQzc4&t=221s",
+        "description": "Brain Wenning, Switch Tre (360 Flip) in the Habitat section of Alien Workshop's Photosynthesis video!"
+    },
+    {
+        "coordinates": {
+            "lng": 1300,
+            "lat": 984
+        },
+        "skater": "Cairo Foster",
+        "trick": "Fs Noseblunt (R/G )",
+        "picture": "https://i.ytimg.com/vi/6mwG_GCQzc4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDZw-2oihK9Rv9fe24s21ROUyMt4g",
+        "video": "https://www.youtube.com/watch?v=6mwG_GCQzc4&t=221s",
+        "description": "Cairo Foster's Fs NoseBlunt down the Brooklyn Banks 9 Stair rail was featured in his Pro to Flow retirement video."
+    },
+    {
+        "coordinates": {
+            "lng": 1298,
+            "lat": 982
+        },
+        "skater": "Chad Muska",
+        "trick": "\"Muska\" Flip (Fs Flip) (R/G )",
+        "picture": "https://i.ytimg.com/vi/6mwG_GCQzc4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDZw-2oihK9Rv9fe24s21ROUyMt4g",
+        "video": "https://www.youtube.com/watch?v=6mwG_GCQzc4&t=221s",
+        "description": "Muska had three clips at the banks in Shorty's Guilty Video. This \"Muska\" Flip over the 9 Stair Rail was 1 out of those 3 clips"
+    },
+
+
+
+    {
+        "coordinates": {
+            "lng": 1282,
+            "lat": 950
+        },
+        "skater": "Creā-ture",
+        "trick": "Nollie Bs 360 Kickflip (R/G N)",
+        "picture": "https://i.ytimg.com/vi/6mwG_GCQzc4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDZw-2oihK9Rv9fe24s21ROUyMt4g",
+        "video": "https://www.youtube.com/watch?v=6mwG_GCQzc4&t=221s",
+        "description": "This was our tease for you guys in 2019 for Go Skate Day"
+    },
+
+
+
+    {
+        "coordinates": {
+            "lng": 1342,
+            "lat": 1014
+        },
+        "skater": "Creā-ture",
+        "trick": "Nollie Bs 360 Kickflip (R/G N)",
+        "picture": "https://i.ytimg.com/vi/6mwG_GCQzc4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDZw-2oihK9Rv9fe24s21ROUyMt4g",
+        "video": "https://www.youtube.com/watch?v=6mwG_GCQzc4&t=172s",
+        "description": "This was our tease for you guys in 2019 for Go Skate Day"
+    },
+
+
+
+    {
+        "coordinates": {
+            "lng": 1532,
+            "lat": 880
+        },
+        "skater": "Creā-ture",
+        "trick": "Nollie Bs 360 Kickflip (R/G N)",
+        "picture": "https://i.ytimg.com/vi/6mwG_GCQzc4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDZw-2oihK9Rv9fe24s21ROUyMt4g",
+        "video": "https://www.youtube.com/watch?v=6mwG_GCQzc4&t=292s",
+        "description": "This was our tease for you guys in 2019 for Go Skate Day"
+    }
+
+]

@@ -1,46 +1,30 @@
-# session-collector-map
+# Session Skate Sim Collector Map
 
-This template should help get you started developing with Vue 3 in Vite.
+This project is inspired by https://github.com/jeanropke/RDR2CollectorsMap.
 
-## Recommended IDE Setup
+## POC
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.vscode-typescript-vue-plugin).
+- [x] Piture from NYC Booklin, Chatham map(1920*1080)  
+- [x] Test adding some markers
+    - [ ] Historical challenge marker type
+    - [ ] Daily Challenge marker type   
+- [ ] Check if there are Copyright issues? (I'm new in the geming world XD)
 
-## Type Support for `.vue` Imports in TS
+![Session Collector Map POC](./assets/scm-pic-1.jpg)
 
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.vscode-typescript-vue-plugin) to make the TypeScript language service aware of `.vue` types.
+## MVP
 
-If the standalone TypeScript plugin doesn't feel fast enough to you, Volar has also implemented a [Take Over Mode](https://github.com/johnsoncodehk/volar/discussions/471#discussioncomment-1361669) that is more performant. You can enable it by the following steps:
+- [ ] HD Picture from NYC Booklin, Chatham map  
+- [ ] Historical challenge marker type
+- [ ] Historical challenge marker content
+- [ ] Daily Challenge marker type   
+- [ ] Daily Challenge marker content   
+- [ ] Define initial Look & Feel
 
-1. Disable the built-in TypeScript Extension
-    1) Run `Extensions: Show Built-in Extensions` from VSCode's command palette
-    2) Find `TypeScript and JavaScript Language Features`, right click and select `Disable (Workspace)`
-2. Reload the VSCode window by running `Developer: Reload Window` from the command palette.
+## Contributing
 
-## Customize configuration
+Every contribution will be welcome and well attributed. This is a community made non-profit project, based on Session Skate Sim Game and community content around the game. 
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Type-Check, Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+* Code contributions: 
+* Content contributions: 
+* Domations: If you want to economicaly support our work you can make donations via github Sponsors feature 
