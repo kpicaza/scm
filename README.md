@@ -2,9 +2,11 @@
 
 This project is inspired by https://github.com/jeanropke/RDR2CollectorsMap.
 
+A community created Fan map with locations of the especial features, spots and so on inner Session Skate Sim wold.
+
 ## POC
 
-- [x] Piture from NYC Booklin, Chatham map(1920*1080)  
+- [x] Picture from NYC Booklin, Chatham map(1920*1080)  
 - [x] Test adding some markers
     - [ ] Historical challenge marker type
     - [ ] Daily Challenge marker type   
@@ -25,6 +27,9 @@ This project is inspired by https://github.com/jeanropke/RDR2CollectorsMap.
 
 Every contribution will be welcome and well attributed. This is a community made non-profit project, based on Session Skate Sim Game and community content around the game. 
 
-* Code contributions: 
-* Content contributions: 
+* Content contributions: This project is a content based project, any medium or info will be welcome, it not required to be a programmer or to have any web development skills. 
+* Bug Report: Open an issue using the bug template
+* Feature Request: Open new discussion 
+* Code contributions: You are free to open Pull requests, we will be glad to review and merge them.
 * Domations: If you want to economicaly support our work you can make donations via github Sponsors feature 
+
