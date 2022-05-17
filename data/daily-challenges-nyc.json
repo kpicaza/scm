@@ -18,5 +18,64 @@
         "video": "https://youtu.be/1iY_6V9Sb2c",
         "name": "Police Plaza Stair Session",
         "description": "Do a trick over any Police plaza stair gaps 20 times."
-    }
-]
+    },
+    {
+        "coordinates": {
+            "lng": 1057,
+            "lat": 1310
+        },
+        "picture": "https://i.ytimg.com/vi/NKAjwVSKK3M/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBC1eDM1YpmStnbt1fDuhWrawf6yw",
+        "video": "https://youtu.be/NKAjwVSKK3M",
+        "name": "Over the Waterfall",
+        "description": "Do 9 manual variation over the falls."
+    },
+    {
+        "coordinates": {
+            "lng": 742,
+            "lat": 2017
+        },
+        "picture": "https://i.ytimg.com/vi/dJh0xf5zMcY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBGnUkhIM8SLgkKBgRLnBXsfXH-yw",
+        "video": "https://youtu.be/dJh0xf5zMcY",
+        "name": "Bump to Gap in the Big Banks",
+        "description": "Do 5 flip tricks over the Bump and Barriers in the Banks."
+    },
+    {
+        "coordinates": {
+            "lng": 1967,
+            "lat": 1465
+        },
+        "picture": "https://i.ytimg.com/vi/2vAcl5Mg5j4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDJ-vTOowN5yDdkmEYap906CHu6EA",
+        "video": "https://youtu.be/2vAcl5Mg5j4",
+        "name": "1 police Plaza Manny Pad",
+        "description": "Do 5 Flip in Manual. flip, Manual, flip out."
+    },
+    {
+        "coordinates": {
+            "lng": 2208,
+            "lat": 1559
+        },
+        "picture": "https://i.ytimg.com/vi/gCUTZFbXltI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC71pWt6AXZEbcajPikkiES5tauiw",
+        "video": "https://youtu.be/gCUTZFbXltI",
+        "name": "Police Plaza Ledge Session",
+        "description": "Do 16 Grind/Slides on Police Plaza Ledges."
+    },
+    {
+        "coordinates": {
+            "lng": 1022,
+            "lat": 1990
+        },
+        "picture": "https://i.ytimg.com/vi/woz1qM7fSwA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLANtEKwjOLR2F1uhAL8yFOMrTxrSA",
+        "video": "https://youtu.be/woz1qM7fSwA",
+        "name": "10 Over the 10 Stair Rail in the Big Banks",
+        "description": "Do 10 Flip tricks over the 10 Stair Handrail."
+    },
+    {
+        "coordinates": {
+            "lng": 1940,
+            "lat": 1980
+        },
+        "picture": "https://i.ytimg.com/vi/rPZxqCixgvU/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCdeLjuTbLvGAUq_M8QX2FFD2bkrQ",
+        "video": "https://youtu.be/rPZxqCixgvU",
+        "name": "Flip Into the 9 Stair Rail",
+        "description": "Do 9 Flips into any Grind/Slides on the 9 Stair Handrail."
+    }]
