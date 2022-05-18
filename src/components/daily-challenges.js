@@ -1,4 +1,7 @@
 import ENV from '../../env.js';
+import getMarker from './marker.js';
+
+const dailyMarker = getMarker('daily');
 
 export default async function loadDailyChallengeMarkers(map, mapName) {
     const data = await fetch(`${ENV.SITE_URL}/data/daily-challenges-${mapName}.json`)
@@ -6,7 +9,7 @@ export default async function loadDailyChallengeMarkers(map, mapName) {
     const dailyChallenges = await data.json();
     dailyChallenges.map((markerData) => {
         let marker = L.latLng([markerData.coordinates.lat, markerData.coordinates.lng])
-        marker = L.marker(marker).bindPopup(
+        marker = L.marker(marker, {icon: dailyMarker}).bindPopup(
 `
 <div>
     <div>
