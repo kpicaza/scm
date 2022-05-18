@@ -1,14 +1,51 @@
+html,
+body {
+    background-color: floralwhite;
+    font-family: 'Verdana', 'Arial';
+    height: 100%;
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+    color: darkslategray;
+}
+
+ul>li {
+    list-style: none;
+}
+
+.footer {
+    height: 50px;
+    color: aliceblue;
+    background-color: #000011;
+}
+.footer>div {
+    padding: 15px;
+}
+
 #page {
+    min-height: 100%;
     width: 100%;
-    display: flex;
+    margin: 0 auto;
 }
+
 #app {
+    display: flex;
+    min-height: 100%;
     width: 100%;
+    margin-bottom: -50px;
+
 }
-#navbar{
+
+#navbar {
     flex: 20%;
+    min-height: 100%;
+    padding: 15px;
 }
+
 #map {
     flex: 80%;
-    height: 900px;
+    min-height: 100%;
+    margin-bottom: 50px;
 }

@@ -9,15 +9,16 @@ It is a community-created Fan map with locations of the game features, spots, an
 - [x] Picture from NYC Brooklin, Chatham map(1920*1080)  
 - [x] Test adding some markers
   - [x] Historical challenge marker type
-  - [ ] Daily Challenge marker type
+  - [x] Daily Challenge marker type
+- [x] Some styling
 - [ ] Show/Hide markers from a type
 - [ ] Check if there are Copyright issues? (I'm new in the gaming world XD)
 
 [Live Demo](https://kpicaza.github.io/scm/)
 
-![Session Collector Map POC](./scm-pic-1.jpg)
+![Session Collector Map POC](./scm-pic-2.jpg)
 
-## MVP
+## MVP (help welcome)
 
 - [ ] HD Picture from NYC Booklin, Chatham map  
 - [ ] Historical challenge marker type
