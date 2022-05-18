@@ -1,0 +1,36 @@
+name: 📌 New Pointer
+description: Submit new pointer location
+title: "[New Pointer]: "
+labels: ["content"]
+assignees:
+  - kpicaza
+body:
+  - type: dropdown
+    id: pointer-type
+    attributes:
+      label: Pointer Type
+      description: "Select one of the following types:"
+      options:
+        - Historical Challenge
+        - Daily Challenge
+    validations:
+      required: true
+  - type: input
+    id: pointer-name
+    attributes:
+      label: Pointer Name
+      description: "Add a name for the pointer:"
+    validations:
+      required: true
+  - type: textarea
+    id: pointer-description
+    attributes:
+      label: Pointer Description
+      description: "Add a description for the pointer:"
+  - type: textarea
+    id: pointer-location
+    attributes:
+      label: Pointer Location
+      description: "A description of where to find the spot, of the location XY axes"
+    validations:
+      required: true

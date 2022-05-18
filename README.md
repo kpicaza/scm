@@ -38,6 +38,7 @@ It is a community-created Fan map with locations of the game features, spots, an
 Every contribution will be welcome and well attributed. It is a community-made non-profit project based on Session Skate Sim Game and community content around the game.
 
 - Content contributions: This project is content-based. Any medium or info will be welcome. It is not required to be a programmer or have any web development skills.
+  * [New Pointer](https://github.com/kpicaza/scm/issues/new?assignees=kpicaza&labels=content&template=submit-pointer.yml&title=%5BNew+Pointer%5D%3A+)
 - Bug Report: Open an issue using the [bug template](https://github.com/kpicaza/scm/issues/new?assignees=kpicaza&labels=bug%2Ctriage&template=bug.yml&title=%5BBug%5D%3A+).
 - Feature Request: Open [new discussion](https://github.com/kpicaza/scm/discussions).
 - Code contributions: You are free to open Pull requests. We will be glad to review and merge them.
