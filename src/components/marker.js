@@ -1,15 +1,22 @@
 import ENV from '../../env.js';
+import getMarkerIcon from './marker-icon.js';
 
-export default function getMarker(markerName) {
-    const marker = L.icon({
-        iconUrl: `${ENV.SITE_URL}assets/${markerName}-marker.png`,
-    
-        iconSize:     [45, 45], // size of the icon
-        shadowSize:   [0, 0], // size of the shadow
-        iconAnchor:   [22, 94], // point of the icon which will correspond to marker's location
-        shadowAnchor: [0, 0],  // the same for the shadow
-        popupAnchor:  [0, -96] // point from which the popup should open relative to the iconAnchor
+
+export default async function loadMarkers(map, mapName, markerType, markup) {
+    const data = await fetch(`${ENV.SITE_URL}/data/${markerType}-${mapName}.json`);
+    const markers = L.markerClusterGroup();
+    const markerIcon = getMarkerIcon(markerType);
+    const pointers = await data.json();
+    pointers.map((markerData) => {
+        let popup = L.popup({
+            className: `${markerType}-popup`
+        })
+            .setContent(markup(markerData));
+
+        let marker = L.latLng([markerData.coordinates.lat, markerData.coordinates.lng]);
+        marker = L.marker(marker, { icon: markerIcon }).bindPopup(popup);
+        markers.addLayer(marker);
     });
-    
-    return marker;
-};
+
+    return map.addLayer(markers);
+}

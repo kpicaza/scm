@@ -6,7 +6,7 @@ app.addEventListener('loadMap', async (event) => {
         minZoom: -1,
         maxZoom: 3,
     });
-    const bounds = [[100,0], [2160, 3840]];
+    const bounds = [[115,15], [2160, 3840]];
     L.imageOverlay(event.detail.map, bounds).addTo(map);
 
     await event.detail.loader(map)
